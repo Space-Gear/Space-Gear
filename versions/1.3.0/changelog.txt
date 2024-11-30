@@ -40,3 +40,5 @@
 
 ### Delete
 - Rhino 
+
+### If you find any errors, please contact our [Discord](https://discord.com/invite/CKTJQyd7Mk)
