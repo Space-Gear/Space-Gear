@@ -1,13 +1,11 @@
 ## Space-Gear **1.1.0**
 
 ## Changes
-
 - New menu
 - The list of changes is right in the game
 - The button for joining Discord
 
 ## Updates
-
 - 3D skin layers 1.6.6
 - AmbientSounds 6.0.2
 - Better Advancements 0.4.2.10
@@ -34,4 +32,4 @@
 - Simple Voice Chat 2.5.17
 - ETF 6.1.1
 
-# If you find any errors, please contact our [Discord](https://discord.com/invite/CKTJQyd7Mk)
+### If you find any errors, please contact our [Discord](https://discord.com/invite/CKTJQyd7Mk)
