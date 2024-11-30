@@ -34,4 +34,4 @@
 - Simple Voice Chat 2.5.17
 - ETF 6.1.1
 
-If you find any errors, please contact our [Discord](https://discord.com/invite/CKTJQyd7Mk)
+## If you find any errors, please contact our [Discord](https://discord.com/invite/CKTJQyd7Mk)
