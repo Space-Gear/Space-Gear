@@ -19,4 +19,4 @@
 - Embeddium 0.3.25
 - Exoosure 1.7.2
 
-# If you find any errors, please contact our [Discord](https://discord.com/invite/CKTJQyd7Mk)
+### If you find any errors, please contact our [Discord](https://discord.com/invite/CKTJQyd7Mk)
