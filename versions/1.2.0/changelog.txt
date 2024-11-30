@@ -19,4 +19,51 @@
 - Embeddium 0.3.25
 - Exoosure 1.7.2
 
+## Space-Gear CurseForge **1.2.0**
+
+### Deleted
+- Advancement JS
+- KubeJS
+- KubeJS Create
+- LootJS: KubeJS Addon
+- Rhino
+
+### Updates
+- Vegan Delight 1.3.2
+- Botarium 2.3.4 
+- CreativeCore 2.11.37
+- Create: Framed 1.4.5.1
+- Chat Heads 0.12.13
+- Embeddium 0.3.31
+- EMI 1.1.12
+- Puzzles Lib 8.1.22
+- Create Encased 1.6.1 fix2
+- Dynamic FPS 3.6.3
+- Elytra Trims 3.4.4
+- Extreme sound muffler 3.48
+- Create: Copycats+ 2.1.2
+- Just Enough Items 15.17.0.74
+- Exposure 1.7.6
+- Create: Vintage Improvements 0.2.0.3
+- Create Slice & Dice 3.2.1
+- ImmediatelyFast 1.2.21
+- Create Big Cannons 5.5.1
+- Citadel 2.6.0
+- Collective 7.84
+- Jade 11.11.1
+- Yeetus Experimentus 2.3.1 build.6
+- Create: Interiors 0.5.4
+- Resourceful Lib 2.1.29
+- Curios API 5.10.0
+- Traveler's Backpack 9.1.15
+- Tom's Simple Storage Mod 1.6.8
+- Entity Culling 1.7.0
+- Not Enough Animations 1.7.5
+- Skin Layers 3D 1.6.7
+- [EMF] Entity Model Features 2.2.3
+- [ETF] Entity Texture Features 6.2.2
+- Botania 446
+- Xaero's Minimap 24.3.0
+- Xaero's World Map 1.39.0
+
 ### If you find any errors, please contact our [Discord](https://discord.com/invite/CKTJQyd7Mk)
