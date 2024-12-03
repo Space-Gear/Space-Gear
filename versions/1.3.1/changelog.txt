@@ -9,24 +9,24 @@ Resors Pack:
 Mods
 - cat_jam
 
- - Smooth Boot (Reloaded)
+- Smooth Boot (Reloaded)
 
- - Etched
+- Etched
 
- - Zume
+- Zume
 
- - Modpack Update Checker
+- Modpack Update Checker
 
- - Better Compatibility Checker
+- Better Compatibility Checker
 
- - GlitchCore
+- GlitchCore
 
 ## Temporarily disabled
- - Create Mechanical Extruder
+- Create Mechanical Extruder
 
- - Create: Amazing Trading
+- Create: Amazing Trading
 
- - Create Mechanical Spawner
+- Create Mechanical Spawner
 
 ## Updates 
 - 3D Skin Layers 1.7.2
