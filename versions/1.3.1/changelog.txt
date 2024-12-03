@@ -2,14 +2,11 @@
 
 **An update for CurseForge will be released later**
 
-## *Added*
-
- ### Resors Pack:
-
+## Added
+### Resors Pack:
  - Fresh Animations - Extensions x6
 
- ### Mods
-
+### Mods
  - cat_jam
 
  - Smooth Boot (Reloaded)
@@ -25,7 +22,6 @@
  - GlitchCore
 
 ## Temporarily disabled
-
  - Create Mechanical Extruder
 
  - Create: Amazing Trading
@@ -33,7 +29,6 @@
  - Create Mechanical Spawner
 
 ## Updates 
-
 - 3D Skin Layers 1.7.2
 
 - Ad Astra 1.15.19
