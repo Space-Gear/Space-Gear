@@ -3,11 +3,11 @@
 **An update for CurseForge will be released later**
 
 ## Added
-### Resors Pack:
- - Fresh Animations - Extensions x6
+Resors Pack:
+- Fresh Animations - Extensions x6
 
-### Mods
- - cat_jam
+Mods
+- cat_jam
 
  - Smooth Boot (Reloaded)
 
