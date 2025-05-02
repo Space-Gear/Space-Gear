@@ -49,6 +49,16 @@
                 "modrinth": "https://modrinth.com/modpack/space-gear/version/1.4.0"
               }
         }
+    },
+    {
+        "id": "1.4.1",
+        "releasedAt": 1746228600000,
+        "promotions": {
+            "downloads": {
+                "modrinth": ""
+                "curseforge": ""
+              }
+        }
     }
   
 ]
