@@ -55,7 +55,8 @@
         "releasedAt": 1746403200000,
         "promotions": {
             "downloads": {
-                "modrinth": "https://modrinth.com/modpack/space-gear/version/1.4.0"
+                "modrinth": "https://modrinth.com/modpack/space-gear/version/1.4.1",
+                "curseforge": "https://www.curseforge.com/minecraft/modpacks/space-gear/files/6496504"
               }
         }
     }
