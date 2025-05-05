@@ -1,5 +1,7 @@
 # Space-Gear **1.4.1**
 
+Due to minor issues, the button with a link to the CurseForge version is not available ([Space-Gear](https://www.curseforge.com/minecraft/modpacks/space-gear/files/6496504))
+
 ## Temporarily disabled
 - Tough As Nails 
 
