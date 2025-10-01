@@ -1,4 +1,4 @@
-# Space-Gear **1.5.0**  
+# Space-Gear <span style="color: coral;">**1.5.0**</span>
 
 ## **Changes**
 
@@ -75,3 +75,4 @@
 
 
 ### If you find any errors, please contact our [Discord](https://discord.com/invite/CKTJQyd7Mk)
+
