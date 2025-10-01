@@ -59,7 +59,15 @@
                 "curseforge": "https://www.curseforge.com/minecraft/modpacks/space-gear/files/6496504"
               }
         }
+    },
+    {
+        "id": "1.5.0",
+        "releasedAt": 1759349640000,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/modpack/space-gear/version/1.5.0",
+              }
+        }
     }
-  
 ]
 }
