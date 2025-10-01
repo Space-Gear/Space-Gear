@@ -15,7 +15,6 @@
 ## **Updates**
 
 ### Mods
-
 - Create: New Age 1.1.4
 - Xaero's Minimap 25.2.10
 - ImmediatelyFast 1.5.2
@@ -64,16 +63,15 @@
 - Extreme sound muffler 3.49.1
 
 ### Resource Packs
-
 - Fresh Animations 1.10.1
 
 # Temporarily disabled
-
 - Create: Copies & Cats
 - Create: Dreams & Desires
 - Create: Framed
 - Create: Vintage Improvements
 
     **Mods are temporarily disabled because they do not work on Create 6**
+
 
 ### If you find any errors, please contact our [Discord](https://discord.com/invite/CKTJQyd7Mk)
